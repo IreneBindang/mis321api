@@ -2,6 +2,6 @@ namespace API.Models.Interfaces
 {
     public interface IDelete
     {
-         public void GetDeleted();
+         public void GetDeleted(int id);
     }
 }

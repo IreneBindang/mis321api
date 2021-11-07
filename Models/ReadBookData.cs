@@ -27,7 +27,7 @@ namespace API.Models
                         allBooks.Add(new Book(){Id = rdr.GetInt32(0), Title = rdr.GetString(1), Author = rdr.GetString(2)});
                     }
                 }
-                
+
                 db.CloseConnection();
                 return allBooks;
             }

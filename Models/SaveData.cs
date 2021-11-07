@@ -21,7 +21,7 @@ namespace API.Models
 
 
         }
-        public void GetDeleted()
+        public void GetDeleted(int id)
         {
             string cs = @"URI=file:C:\Users\irenebindangabesoangue\Documents\MIS321\REPOS\DatabaseCode\book.db";
             using var con = new SQLiteConnection(cs); 
