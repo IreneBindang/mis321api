@@ -96,3 +96,15 @@
 /Users/irenebindangabesoangue/Documents/MIS321/WebApp/API/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/SQLite.Interop.dll
 /Users/irenebindangabesoangue/Documents/MIS321/WebApp/API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SQLite.Interop.dll
 /Users/irenebindangabesoangue/Documents/MIS321/WebApp/API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SQLite.Interop.dll
+/Users/irenebindangabesoangue/Documents/MIS321/WebApp/API/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/irenebindangabesoangue/Documents/MIS321/WebApp/API/bin/Debug/netcoreapp3.1/Google.Protobuf.dll
+/Users/irenebindangabesoangue/Documents/MIS321/WebApp/API/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.dll
+/Users/irenebindangabesoangue/Documents/MIS321/WebApp/API/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.Streams.dll
+/Users/irenebindangabesoangue/Documents/MIS321/WebApp/API/bin/Debug/netcoreapp3.1/K4os.Hash.xxHash.dll
+/Users/irenebindangabesoangue/Documents/MIS321/WebApp/API/bin/Debug/netcoreapp3.1/MySql.Data.dll
+/Users/irenebindangabesoangue/Documents/MIS321/WebApp/API/bin/Debug/netcoreapp3.1/Ubiety.Dns.Core.dll
+/Users/irenebindangabesoangue/Documents/MIS321/WebApp/API/bin/Debug/netcoreapp3.1/ZstdNet.dll
+/Users/irenebindangabesoangue/Documents/MIS321/WebApp/API/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/irenebindangabesoangue/Documents/MIS321/WebApp/API/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/irenebindangabesoangue/Documents/MIS321/WebApp/API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/irenebindangabesoangue/Documents/MIS321/WebApp/API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
